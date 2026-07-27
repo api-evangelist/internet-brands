@@ -1,0 +1,22 @@
+# Internet Brands
+
+> Internet Brands is a KKR-owned digital media and software company (founded 1998, headquartered in El Segundo, California) that operates a portfolio of vertical franchises across health, dental, legal, and auto/home/travel markets, including WebMD, Medscape, WebMD Ignite, PulsePoint, Henry Schein One / Dentrix, FindLaw, Avvo, CarsDirect, and Fodor's. This profile is an API Evangelist network company record; Internet Brands the holding company does not publish a single unified public developer API — developer surfaces live with individual operating brands.
+
+## Company
+- [Internet Brands homepage](https://www.internetbrands.com/): Corporate site and vertical overview.
+- [News](https://www.internetbrands.com/news): Company news and press.
+- [Contact](https://www.internetbrands.com/contact-us): Corporate contact.
+- [Terms of Use](https://www.internetbrands.com/ibterms): Corporate terms of use.
+- [Privacy Policy](https://www.internetbrands.com/privacy): Corporate privacy policy.
+- [Careers](https://jobs.jobvite.com/internetbrands): Open roles.
+
+## Verticals
+- Health (HCP): Medscape, WebMD Ignite.
+- Health (DTC): WebMD, PulsePoint.
+- Dental: Henry Schein One, Dentrix.
+- Legal: FindLaw, Avvo.
+- Auto, Home & Travel: CarsDirect, Fodor's.
+
+## Notes
+- No unified public OpenAPI, MCP server, or developer portal is published at the holding-company level.
+- Backed by Battery Ventures and Redpoint Ventures (historical); now owned by KKR.

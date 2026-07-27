@@ -1,8 +1,24 @@
 aid: internet-brands
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/internet-brands.png
 name: Internet Brands
-description: Internet Brands is a company surfaced as a portfolio company of battery-ventures, redpoint-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: Internet Brands is a KKR-owned digital media and software company, founded in 1998 and
+  headquartered in El Segundo, California, that operates a portfolio of vertical franchises across health,
+  dental, legal, and auto/home/travel markets. Its brands include WebMD and Medscape (health), WebMD Ignite
+  and PulsePoint (health engagement), Henry Schein One and Dentrix (dental SaaS), FindLaw and Avvo (legal),
+  and CarsDirect and Fodor's (auto, home, and travel). It was surfaced as a portfolio company of Battery
+  Ventures and Redpoint Ventures and added to the API Evangelist network. The holding company does not
+  publish a single unified public developer API; developer surfaces live with its individual operating brands.
 url: https://raw.githubusercontent.com/api-evangelist/internet-brands/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Digital Media
+- Health
+- Legal
+- Dental
+- Automotive
+- SaaS
+- Holding Company
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: http://www.internetbrands.com/
+- type: News
+  url: https://www.internetbrands.com/news
+- type: Blog
+  url: https://www.internetbrands.com/news
+- type: Support
+  url: https://www.internetbrands.com/contact-us
+- type: TermsOfService
+  url: https://www.internetbrands.com/ibterms
+- type: PrivacyPolicy
+  url: https://www.internetbrands.com/privacy
+- type: DomainSecurity
+  url: security/internet-brands-domain-security.yml
+- type: LLMsTxt
+  url: llms/internet-brands-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

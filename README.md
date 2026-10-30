@@ -64,6 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Internet Brands is a company surfaced as a portfolio company of battery-ventures, redpoint-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Internet Brands is a KKR-owned digital media and software company, founded in 1998 and headquartered in El Segundo, California, that operates a portfolio of vertical franchises across health, dental, legal, and auto/home/travel markets. Its brands include WebMD and Medscape (health), WebMD Ignite and PulsePoint (health engagement), Henry Schein One and Dentrix (dental SaaS), FindLaw and Avvo (legal), and CarsDirect and Fodor's (auto, home, and travel). It was surfaced as a portfolio company of Battery Ventures and Redpoint Ventures and added to the API Evangelist network. The holding company does not publish a single unified public developer API; developer surfaces live with its individual operating brands.
 
-Backed by: battery-ventures, redpoint-ventures — http://www.internetbrands.com/
+**Areas:** Company · Digital Media · Health · Legal · Dental · Automotive · Software-as-a-Service · Holding Company
+
+## Internet Brands on APIs.io
+
+Everything profiled for Internet Brands is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/internet-brands/](https://apis.io/providers/internet-brands/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [Moved to /providers/internet-brands/](https://apis.io/servers/internet-brands/internet-brands/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Internet Brands Domain Security](https://apis.io/security/internet-brands/internet-brands-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.internetbrands.com/)
+- [Support](https://www.internetbrands.com/contact-us)
+- [Blog](https://www.internetbrands.com/news)
+- [Terms of service](https://www.internetbrands.com/ibterms)
+- [Privacy policy](https://www.internetbrands.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 11.5** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 8.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/internet-brands/](https://apis.io/providers/internet-brands/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Internet Brands: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/internet-brands/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
